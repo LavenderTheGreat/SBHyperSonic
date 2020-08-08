@@ -1,4 +1,9 @@
 // Hyper Sonic Mod
-// Run Start
+// Run Turn
 
 Address ED68BC
+
+// First frame
+00 
+00 F0 FF 18 00 33 00 B4 00 34 00 00 00 24 00 07 00 00 10 02 // Just quickly play the first end of the run
+00 F0 FF 01 00 F0 00 // (Redirects to Running)
