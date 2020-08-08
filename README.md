@@ -10,6 +10,146 @@ Due to current circumstances (ie I haven't asked them whether I'm able to distri
 
 Without sprites, you'll encounter *a lot* of empty frames (As seen under original sprite, those gaps *are not mistakes, they are sprites not present in the original game.*).
 
+## Animations
+
+- [x] - Idle
+
+- [x] - Run startup
+
+- [x] - Run
+
+- [ ] - Run stop
+
+- [ ] - Dash
+
+- [ ] - Run turn around
+
+- [ ] - Stand turn around
+
+- [ ] - Falling
+
+- [ ] - Jumping
+
+- [ ] - Landing
+
+- [ ] - Air dash
+
+- [ ] - Standard combo 1
+
+- [ ] - Standard combo 2
+
+- [ ] - Standard combo 3
+
+- [ ] - Heavy attack
+
+- [ ] - Upper attack
+
+- [ ] - Dash attack
+
+- [ ] - Pursuit animation
+
+- [ ] - Pursuit attack
+
+- [ ] - Unknown Pursuit attack variant
+
+- [ ] - Air attack
+
+- [ ] - Shot left/right
+
+- [ ] - Unknown cut to a fall 1
+
+- [ ] - Unknown cut to a fall 2
+
+- [ ] - More left/right shot (Guess is ending of it due to the many many looped ball animations?)
+
+- [ ] - ?? (53B20)
+
+- [ ] - ?? (53B2C) - These are probably proxies or something for moves that end on the same thing so they can change it easier?
+
+- [ ] - Power attack throw
+
+- [ ] - Shot down
+
+- [ ] - Idle redirect? (53C98)
+
+- [ ] - Air trap
+
+- [ ] - Possibly to do with the down shot?
+
+- [ ] - Possibly to do with the up shot?
+
+- [ ] - Ground trap
+
+- [ ] - ?? (53EA0)
+
+- [ ] - ?? (53EB4)
+
+- [ ] - This seems to be the actual air trap?
+
+- [ ] - ?? (53F34)
+
+- [ ] - Idle? (53F48)
+
+- [ ] - Getting hit
+
+- [ ] - Flung back
+
+- [ ] - Knocked into the air
+
+- [ ] - Same again
+
+- [ ] - Related to getting hit apparently?
+
+- [ ] - Again?
+
+- [ ] - Getting back up
+
+- [ ] - Again?
+
+- [ ] - Fall on the ground from air
+
+- [ ] - Back up from falling from the air
+
+- [ ] - Getting knocked into the air??
+
+- [ ] - Getting flung back?
+
+- [ ] - ?? (54590)
+
+- [ ] - Knocked into the air then falling?
+
+- [ ] - Getting hit normally then getting back?
+
+- [ ] - Knocked into the air (AGAIN???)
+
+- [ ] - Getting back up (AGAIN?)
+
+- [ ] - Jump back then go idle
+
+- [ ] - Actually go back on feet
+
+- [ ] - First two frames of getting back
+
+- [ ] - GET BACK AGAIN?
+
+- [ ] - Shield stun
+
+- [ ] - Healing startup
+
+- [ ] - Healing loop
+
+- [ ] - Healing end
+
+- [ ] - Wall jump
+
+- [ ] - First two frames of being knocked into the air, a ton of times
+
+- [ ] - Landing and dying
+
+- [ ] - ?? (549F8)
+
+- [ ] - Respawn icon
+
 ## Frames
 
 | ID |Comment|SBHS/SBRX Column (X)|SBHS/SBRX Row (Y)|Original sprite|
