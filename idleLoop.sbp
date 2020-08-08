@@ -1,8 +1,5 @@
 // Hyper Sonic Mod
 // Idle state
-// SPEC: 6 frames
-
-// This is based on/copied from the original idle animation, that first line is horrifically scary right now so I'm not touching it lmao
 
 // Index 1
 Address ED68A8
