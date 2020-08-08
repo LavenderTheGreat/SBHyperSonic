@@ -18,7 +18,7 @@ Without sprites, you'll encounter *a lot* of empty frames (As seen under origina
 
 - [x] - Run
 
-- [ ] - Run stop
+- [x] - Run stop
 
 - [ ] - Dash
 
