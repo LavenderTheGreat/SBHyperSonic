@@ -54,9 +54,9 @@ I'd like to thank the following for making this possible:
 
 - [ ] - Dash
 
-- [ ] - Run turn around
+- [x] - Run turn around
 
-- [ ] - Stand turn around
+- [x] - Stand turn around
 
 - [ ] - Falling
 
