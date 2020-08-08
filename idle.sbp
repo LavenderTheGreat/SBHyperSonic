@@ -1,20 +1,22 @@
 // Hyper Sonic Mod
+// Idle state
+// SPEC: 6 frames
 
-Address ED68D4
+// This is based on/copied from the original idle animation, that first line is horrifically scary right now so I'm not touching it lmao
 
-// Prep Frame 1, setting this to 0 duration stops the anim early
-00 00 F0 FF 00 00 10 00 D0 00 11 00 00 00 10 01 40 00 00 10 08 00 00 11 6E 02 00 28 01
-// Prep Frame 2, lowering this below 2 stops it early
-00 F0 FF 41 00 00 10 02
-// Hit frame, changing this to sub 3 stops the animation early
-00 F0 FF 40 01 20 00 00 00 21 00 00 00 22 00 24 00 23 00 D0 00 24 00 05 00 27 00 01 00 25 00 02 00 26 00 42 00 00 10 03
-// Pull Back Frame 1, changing this to sub 4 stops it early
-00 F0 FF 43 00 00 10 06
-// Pull Back Frame 2, this is an extended frame hmmm, frame index seems to be the 44 here, wonder what the 24 is? Changing this to sub 7 stops the animation early
-00 F0 FF 00 00 24 00 44 00 00 10 00 00 20 01 FF
-// Pull Back Frame 3
-00 F0 FF 8D 00 00 10 FF
-// Next animation state, FF was a weird one huh, respawning without the full state so you just get locked haha.
-00 F0 FF 00 00 00 01 00
-// Anim ending bytes
-00 F0 00
+// Index 1
+Address ED68A8
+
+// First frame
+00 
+00 F0 FF 00 00 00 10 00 04 1F 00 00 00 10 00 00 00 02 00 10 00 12 00 D0 00 11 00 18 00 33 00 B4 00 34 00 00 00 24 00 03 
+
+// Body
+00 F0 FF 01 00 00 10 06 
+00 F0 FF 02 00 00 10 08 
+00 F0 FF 03 00 00 10 0A 
+00 F0 FF 04 00 00 10 0C 
+00 F0 FF 05 00 00 10 0D
+
+// Loop back
+00 F0 FF 00 00 FE FF

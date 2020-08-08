@@ -1,0 +1,23 @@
+// Hyper Sonic Mod
+// Run Start
+
+// Index 2
+Address ED68AC
+
+// Startup
+00 
+00 F0 FF 00 02 10 00 10 00 12 00 D0 00 11 00 80 07 1F 00 18 00 33 00 B4 00 34 00 00 00 24 00 06 00 00 10 04
+// Part 2
+00 F0 FF 07 00 00 10 06 // ID 07
+
+// Standard runcycle
+//00 F0 FF 08 00 00 10 62 02 00 28 08 ?? Commented this out and it works fine??? JUST WHAT IS IT DOING??
+00 F0 FF 08 00 00 10 08 // The above was replaced with this! And it WORKS!
+00 F0 FF 09 00 00 10 0A
+00 F0 FF 0A 00 00 10 0C
+00 F0 FF 0B 00 00 10 0E
+00 F0 FF 0C 00 00 10 10
+00 F0 FF 0D 00 00 10 12
+00 F0 FF 0E 00 00 10 14
+00 F0 FF 0F 00 00 10 16
+00 F0 FF 02 00 F0 00 // (Redirects to Stopping)

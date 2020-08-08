@@ -1,0 +1,20 @@
+// Hyper Sonic Mod
+// Run loop
+
+// Index 2
+Address ED68B0
+
+// Standard runcycle
+
+// Frame 1
+00 
+00 F0 FF 08 00 00 10 02
+
+00 F0 FF 09 00 00 10 03
+00 F0 FF 0A 00 00 10 05
+00 F0 FF 0B 00 00 10 06
+00 F0 FF 0C 00 00 10 08
+00 F0 FF 0D 00 00 10 09
+00 F0 FF 0E 00 00 10 0B
+00 F0 FF 0F 00 00 10 0D
+00 F0 FF 00 00 FE FF
