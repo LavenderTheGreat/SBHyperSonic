@@ -10,6 +10,38 @@ Due to current circumstances (ie I haven't asked them whether I'm able to distri
 
 Without sprites, you'll encounter *a lot* of empty frames (As seen under original sprite, those gaps *are not mistakes, they are sprites not present in the original game.*).
 
+## Special thanks
+
+I'd like to thank the following for making this possible:
+
+- Spritework
+
+    - Hyper Sonic spritesheet
+
+        - shadow_91 (Hyper Sonic sprites)
+
+        - Joe TE (Super Sonic sprites)
+
+        - Nate The Hedgehog (Original Sonic sprites, unused)
+
+- Hacking scene
+
+    - Phase - Started the hacking project 3+ years ago now! Created SBHS and SBRX!
+
+    - Glimmer - Found metric tons (Almost all of it) of the data needed to make this happen!
+
+    - Battle Highway - Motivating and supporting the animation data reverse engineering project!
+
+        - Lsarereal
+
+        - Nitespeed
+
+        - Jase3300
+
+        - Lofi Girl
+
+- And you!
+
 ## Animations
 
 - [x] - Idle
