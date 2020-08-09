@@ -202,3 +202,46 @@ I'd like to thank the following for making this possible:
 |``0D``| Run 6 | 3 | 2 | Run 2
 |``0E``| Run 7 | 3 | 3 | Run 3
 |``0F``| Run 8 | 3 | 4 | Run 4
+|``10``| Dash 1 | 3 | 5 | Run 5
+|``11``| Dash 2 | 3 | 6 | Run 6
+|``12``| Dash 3 | 3 | 7 | Run 7
+|``13``| Dash 4 | 3 | 8 | Run 8
+|``14``| Dash 5 (Empty)| 4 | 1 | Stop (Run) 1
+|``15``| Dash 6 | 4 | 2 | Stop (Run) 2
+|``16``| Dash 7 | 4 | 3 | Stop (Run) 3
+|``17``| Dash 8 | 4 | 4 | Stop (Run) 4
+|``18``| Jump 1 | 5 | 1 | Dash 1
+|``19``| Jump 2 | 5 | 2 | Dash 2
+|``1A``| Jump 3 | 5 | 3 | Dash 3
+|``1B``| Stall | 5 | 4 | Dash 4
+|``1C``| Fall 1 | 5 | 5 | Dash 5
+|``1D``| Fall 2 | 5 | 6 | Dash 6
+|``1E``| Fall 3 | 5 | 7 | Dash 7
+|``1F``| Air attack 1 | 5 | 8 |
+|``20``| Air attack 2 | 6 | 1 | Turn (Stand) 1
+|``21``| Air attack 3 | 6 | 2 | Turn (Stand) 2
+|``22``| Air attack 4 | 6 | 3 | Turn (Stand) 3
+|``23``| Air attack 5 | 6 | 4 | 
+|``24``| Air attack 6 | 7 | 1 | Turn (Run) 1
+|``25``| Air attack 7 | 7 | 2 | Turn (Run) 2
+|``26``| Air attack 8 | 7 | 3 | Turn (Run) 3
+|``27``| Air attack 9 | 7 | 4 | Turn (Run) 4
+|``28``| Combo 1 - 1 |
+|``29``| Combo 1 - 2 |
+|``2A``| Combo 1 - 3 |
+|``2B``| Combo 1 - 4 |
+|``2C``| Combo 1 - 5 |
+|``2D``| Combo 2 - 1 |
+|``2E``| Combo 2 - 2 |
+|``2F``| Combo 2 - 3 |
+|``30``| Combo 2 - 4 |
+|``31``| Combo 2 - 5 |
+|``32``| Combo 2 - 6 |
+|``33``| Combo 3 - 1 |
+|``34``| Combo 3 - 2 |
+|``35``| Combo 3 - 3 |
+|``36``| Combo 3 - 4 |
+|``37``| Combo 3 - 5 |
+|``38``| Combo 3 - 6 |
+|``39``| Combo 3 - 7 |
+|``3A``| Combo 3 - 8 |
