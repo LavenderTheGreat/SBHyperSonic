@@ -226,22 +226,61 @@ I'd like to thank the following for making this possible:
 |``25``| Air attack 7 | 7 | 2 | Turn (Run) 2
 |``26``| Air attack 8 | 7 | 3 | Turn (Run) 3
 |``27``| Air attack 9 | 7 | 4 | Turn (Run) 4
-|``28``| Combo 1 - 1 |
-|``29``| Combo 1 - 2 |
-|``2A``| Combo 1 - 3 |
-|``2B``| Combo 1 - 4 |
-|``2C``| Combo 1 - 5 |
-|``2D``| Combo 2 - 1 |
-|``2E``| Combo 2 - 2 |
-|``2F``| Combo 2 - 3 |
-|``30``| Combo 2 - 4 |
-|``31``| Combo 2 - 5 |
-|``32``| Combo 2 - 6 |
-|``33``| Combo 3 - 1 |
-|``34``| Combo 3 - 2 |
-|``35``| Combo 3 - 3 |
-|``36``| Combo 3 - 4 |
-|``37``| Combo 3 - 5 |
-|``38``| Combo 3 - 6 |
-|``39``| Combo 3 - 7 |
-|``3A``| Combo 3 - 8 |
+|``28``| Combo 1 - 1 | 8 | 1
+|``29``| Combo 1 - 2 | 8 | 2
+|``2A``| Combo 1 - 3 | 8 | 3
+|``2B``| Combo 2 - 1 | 8 | 4
+|``2C``| Combo 2 - 2 | 9 | 1
+|``2D``| Combo 2 - 3 | 9 | 2
+|``2E``| Combo 2 - 4 | 9 | 3
+|``2F``| Combo 2 - 5 | 9 | 4
+|``30``| Combo 2 - 6 | 9 | 5
+|``31``| Combo 2 - 7 | 9 | 6
+|``32``| Combo 3 - 1 | 9 | 7
+|``33``| Combo 3 - 2 | 9 | 8
+|``34``| Combo 3 - 3 | 10 | 1
+|``35``| Combo 3 - 4 | 10 | 2
+|``36``| Combo 3 - 5 | 10 | 3
+|``37``| Combo 3 - 6 | 10 | 4
+|``38``| Combo 3 - 7 | 11 | 1
+|``39``| Combo 3 - 8 | 11 | 2
+|``3A``| Flip - 1 | 11 | 3
+|``3B``| Flip - 2 | 11 | 4
+|``3C``| Flip - 3 | 11 | 5
+|``3D``| Flip - 4 | 11 | 6
+|``3E``| Flip - 5 | 11 | 7
+|``3F``| Set - 1 | 11 | 8
+|``40``| Set - 2 | 12 | 1
+|``41``| Set - 3 | 12 | 2
+|``42``| Set - 4 | 12 | 3
+|``43``| Set - 5 | 12 | 4
+|``44``| Set - 6 | 12 | 5
+|``45``| Set - 7 | 12 | 6
+|``46``| Shield - 1 | 12 | 7
+|``47``| Shield - 2 | 12 | 8
+|``48``| Shield - 3 | 13 | 1
+|``49``| Heal - 1 | 13 | 2
+|``4A``| Heal - 2 | 13 | 3
+|``4B``| Heal - 3 | 13 | 4
+|``4C``| Rebound - 1 | 13 | 5
+|``4D``| Rebound - 2 | 13 | 6
+|``4E``| Rebound - 3 | 13 | 7
+|``4F``| Rebound - 4 | 13 | 8
+|``50``| Rebound - 5 | 14 | 1
+|``51``| Hit - 1 | 14 | 2
+|``52``| Hit - 2 | 14 | 3
+|``53``| Hit - 3 | 14 | 4
+|``54``| Launched - 1 | 14 | 5
+|``55``| Launched - 2 | 14 | 6
+|``56``| Launched - 3 | 14 | 7
+|``57``| Launched - 4 | 14 | 8
+|``58``| Launched - 5 | 15 | 1
+|``59``| Launched - 6 | 15 | 2
+|``5A``| Slammed - 1 | 15 | 3
+|``5B``| Slammed - 2 | 15 | 4
+|``5C``| Slammed - 3 | 15 | 5
+|``5D``| Slammed - 4 | 15 | 6
+|``5E``| Respawn Marker - 1 | 15 | 7
+|``5F``| Respawn Marker - 2 | 15 | 8
+|``60``| Respawn Marker - 3 | 15 | 9
+|``61``| Respawn Marker - 4 | 15 | 10
